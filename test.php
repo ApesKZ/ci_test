@@ -6,10 +6,14 @@ echo 'second line1111233111 gfdggfdgdfg dgffdgdf gdf gdfgfdgfd gdf gfdg fd gfdg 
 /**
  * @param string $obj
  */
-function TsuperFunc(Obj1 $obj)
-{
+function TsuperFunc(Obj1 $obj){
 
 }
 $tt = new sdfasfdsffsdfsfsdfsd();
 $t = 5 / 0;
-gdfgdfgdf 43534 --gf gdf
+hgfhfghgfhgf
+
+function NewFunc(){
+
+}
+ sdgsdfs

@@ -19,3 +19,5 @@ function NewFunc(){
  sdgsdfs
 
  tertretreter
+ gfhfghfghgf
+nbvnvbn
